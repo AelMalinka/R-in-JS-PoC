@@ -1,0 +1,36 @@
+excl:
+  tick:
+  - no
+  - no
+  months:
+  - 6.0
+  - 59.99
+  cm:
+  - 67.0
+  - 110.0
+z:
+  radio: observed mean
+  smart:
+    whz:
+    - -3.0
+    - 3.0
+    haz:
+    - -3.0
+    - 3.0
+    waz:
+    - -3.0
+    - 3.0
+  who:
+    whz:
+    - -5.0
+    - 5.0
+    haz:
+    - -6.0
+    - 6.0
+    waz:
+    - -6.0
+    - 5.0
+muac:
+- 115.0
+- 125.0
+clothes_g: 40.0

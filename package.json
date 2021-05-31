@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node ./install-r.js anthro jsonlite here tidyverse yaml",
+    "build": "node ./install-r.js anthro here tidyverse yaml srvyr jsonlite",
 	"start": "node ./index.js"
   },
   "author": "",
